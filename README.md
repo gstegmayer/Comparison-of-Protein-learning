@@ -3,7 +3,7 @@
 This repository contains the data and code used in the review of protein
 sequence embeddings entitled *"Transfer learning in proteomics: comparison of
 novel learned representations for protein sequences,"* by E. Fenoy, A. Edera
-and G. Stegmayer (under review). Research Institute for Signals, Systems and
+and G. Stegmayer (Briefings in Bioinformatics, Volume 23, Issue 4, July 2022, bbac232, https://doi.org/10.1093/bib/bbac232). Research Institute for Signals, Systems and
 Computational Intelligence, [sinc(i)](https://sinc.unl.edu.ar).
 
 <p align="center">
